@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    background-color:  #08dffc;
+    text-align: center;
+}
+nav a{
+text-decoration: none ;
+color: #08dffc;
+margin: 20px;
+}
+nav{
+    border: #08dffc 3px solid;
+    border-radius: 1000000000000px;
+}
